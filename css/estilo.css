@@ -1,6 +1,7 @@
 body {
   font-family: sans-serif;
   font-family: "Iceland", cursive;
+  margin: 20px;
 }
 
 table {
@@ -28,7 +29,7 @@ footer {
   position: fixed;
   bottom: 0px;
   height: 80px;
-  width: 100%;
+  width: 98%;
   color: white;
 }
 footer a {
@@ -41,4 +42,5 @@ footer a:hover {
 
 h1{
   font-size: xx-large;
+  text-shadow: rgb(10,0,100) 3px 3px 5px;
 }
